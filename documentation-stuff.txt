@@ -1,0 +1,11 @@
+socket.io
+Are sockets useful in this application?
+Ajax polling?
+What info is needed for a user?
+What info is needed for a group?
+how are groups and users linked?
+What can you do in a group?
+- chat
+What can a user do?
+- search
+How does the search work?

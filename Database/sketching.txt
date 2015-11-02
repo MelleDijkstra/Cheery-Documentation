@@ -1,0 +1,45 @@
+TIPS:
+1. inner join = the table that joins needs to have a match with first table!
+2. left join = Everything from the left table and the data from the right table that matches
+3. rigth join = Everything from the right table and the data from the left table that match
+4. outer join = Everything from left and right on what matches
+
+- Users
+UID
+Firstname
+Lastname
+Location?
+Nickname?
+Mobile Number?
+Deleted?
+
+- GroupUsers
+Group_id
+User-id
+
+- Groups
+GID
+Name
+Owner_id
+Location
+
+-Friends
+Friend_unique_id
+Friend_1
+Friend_2
+friend_status
+
+- Notifications
+Notification_id
+From_id
+To_id
+Notification_msg
+Read
+
+- APIclients
+id
+client_id
+app_name
+owner
+remote_ip?
+privelege (1 = can't do much, 2 = can do more, 3 = full API access)
