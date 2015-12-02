@@ -1,0 +1,8 @@
+SELECT F.first_user AS 
+FIRST , F.second_user AS 
+SECOND , U1.firstname AS NameOfFirst, U2.firstname AS NameOfSecond
+FROM FriendRelation F
+LEFT JOIN Users U1 ON F.first_user = U1.user_id
+LEFT JOIN Users U2 ON F.second_user = U2.user_id
+WHERE F.first_user =20
+OR F.second_user =20

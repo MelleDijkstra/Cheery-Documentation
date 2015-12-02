@@ -9,3 +9,8 @@ What can you do in a group?
 What can a user do?
 - search
 How does the search work?
+Is there an API
+how does the API work
+is the API for everyone?
+Filestructure?
+Flight framework also in cheery.nl, not only API?

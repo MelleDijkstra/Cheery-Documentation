@@ -1,3 +1,9 @@
+Dingen om over na te denken:
+Hoe check je of een vriendschap al bestaat?
+Kan een user over meerdere groups owner zijn?
+Kan een groep meerdere owners hebben?
+Kan je vrienden worden met iemand of kan je iemand volgen?
+
 TIPS:
 1. inner join = the table that joins needs to have a match with first table!
 2. left join = Everything from the left table and the data from the right table that matches
@@ -8,10 +14,18 @@ TIPS:
 UID
 Firstname
 Lastname
+email
+password
+profile_picture
+birthday?
+is_developer
+website?
 Location?
 Nickname?
 Mobile Number?
 Deleted?
+created_at
+last_modified_at
 
 - GroupUsers
 Group_id
@@ -20,6 +34,7 @@ User-id
 - Groups
 GID
 Name
+avatar
 Owner_id
 Location
 
@@ -42,4 +57,4 @@ client_id
 app_name
 owner
 remote_ip?
-privelege (1 = can't do much, 2 = can do more, 3 = full API access)
+privilege (1 = can't do much, 2 = can do more, 3 = full API access)
