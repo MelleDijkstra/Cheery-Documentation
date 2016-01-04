@@ -1,0 +1,33 @@
+Bij het ontwikkelen van een systeem kunnen we werken met een functioneel ontwerp (FO) en een technisch ontwerp (TO).
+
+Functioneel Ontwerp.
+·	Definitiestudie (projectopdracht)
+·	Basisontwerp
+·	Detailontwerp
+
+Technisch Ontwerp.
+·	Realisatie
+·	Invoering
+
+Bij het functioneel ontwerp letten op de volgende zaken:
+·	Huidige situatie van het systeem
+·	De gewenste/nieuwe situatie van het systeem
+·	Wat bepaalt (voorwaarden) het succesvol afronden van het project?
+·	Hoe wordt de kwaliteit van het project gewaarborgd?
+·	De samenstelling en rolverdeling/verantwoordelijkheden binnen de projectgroep.
+·	De tijd- en kostenplanning
+·	Benodigde hard- en software.
+·	Op te leveren producten (programma, bijlagen, verslag, notulen, presentatie enz.)
+·	Testplan van het programma
+·	Let op de validiteit (bruikbaarheid, waarde) en consistentie (samenhang) van alle produkten
+
+
+Het technisch ontwerp.
+Uit het functioneel ontwerp is duidelijk geworden wat er gebouwd gaat worden. In het technisch ontwerp gaat het erom hoe er gebouwd gaat worden.
+Nu komen dus de beschrijvingen van de gedetailleerde programma’s (psd’s) en welke hulpmiddelen/apparaten we daarbij gaan gebruiken.
+Producten van het technisch ontwerp kunnen bijv. zijn: 
+·	Hardware configuratie
+·	Testplan
+·	Systeemdocumentatie enz.
+
+De werkzaamheden die het functioneel en technisch ontwerp met zich meebrengen zijn weer terug te vinden in het Plan van Aanpak.
